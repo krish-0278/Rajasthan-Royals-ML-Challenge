@@ -1,0 +1,7 @@
+Competitions: 141 total rows across formats: {'T20I': 134, 'T20': 7}
+Matches: 883 total matches in matches.csv
+Matches abandoned/no-result: 41
+Ball-by-ball deliveries: 200999 across 867 matches
+Legal deliveries: 192444 (95.74%), Non-legal: 8555
+Wickets: Total=10881, Bowler Wickets=10272, Non-bowler dismissals=609
+Regulation innings deliveries (Innings 1 & 2): 200961, Super over balls: 38

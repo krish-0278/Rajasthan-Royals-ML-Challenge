@@ -1,0 +1,112 @@
+{
+  "correlation": {
+    "pearson": 0.6085214024621062,
+    "spearman": 0.8757466745108091
+  },
+  "threshold_sensitivity": {
+    "Top_10%": {
+      "High Pressure": {
+        "Deliveries": 20097,
+        "Legal Deliveries": 18712,
+        "Run Rate": 9.94,
+        "Dot Ball %": 33.5,
+        "Boundary %": 22.54,
+        "Four %": 12.37,
+        "Six %": 10.17,
+        "Wicket %": 9.81,
+        "Bowler Wicket %": 8.46,
+        "Mean |WPA|": 0.0464
+      },
+      "Low/Medium Pressure": {
+        "Deliveries": 180864,
+        "Legal Deliveries": 173699,
+        "Run Rate": 8.32,
+        "Dot Ball %": 37.43,
+        "Boundary %": 18.23,
+        "Four %": 12.0,
+        "Six %": 6.24,
+        "Wicket %": 4.92,
+        "Bowler Wicket %": 4.73,
+        "Mean |WPA|": 0.0151
+      }
+    },
+    "Top_20%": {
+      "High Pressure": {
+        "Deliveries": 40193,
+        "Legal Deliveries": 37725,
+        "Run Rate": 9.53,
+        "Dot Ball %": 32.17,
+        "Boundary %": 20.86,
+        "Four %": 11.7,
+        "Six %": 9.16,
+        "Wicket %": 8.04,
+        "Bowler Wicket %": 7.2,
+        "Mean |WPA|": 0.033
+      },
+      "Low/Medium Pressure": {
+        "Deliveries": 160768,
+        "Legal Deliveries": 154686,
+        "Run Rate": 8.22,
+        "Dot Ball %": 38.24,
+        "Boundary %": 18.12,
+        "Four %": 12.12,
+        "Six %": 6.0,
+        "Wicket %": 4.75,
+        "Bowler Wicket %": 4.58,
+        "Mean |WPA|": 0.0146
+      }
+    },
+    "Top_25%": {
+      "High Pressure": {
+        "Deliveries": 50241,
+        "Legal Deliveries": 47343,
+        "Run Rate": 9.4,
+        "Dot Ball %": 31.85,
+        "Boundary %": 20.29,
+        "Four %": 11.48,
+        "Six %": 8.8,
+        "Wicket %": 7.47,
+        "Bowler Wicket %": 6.74,
+        "Mean |WPA|": 0.03
+      },
+      "Low/Medium Pressure": {
+        "Deliveries": 150720,
+        "Legal Deliveries": 145068,
+        "Run Rate": 8.18,
+        "Dot Ball %": 38.75,
+        "Boundary %": 18.12,
+        "Four %": 12.21,
+        "Six %": 5.91,
+        "Wicket %": 4.72,
+        "Bowler Wicket %": 4.56,
+        "Mean |WPA|": 0.0143
+      }
+    },
+    "Top_30%": {
+      "High Pressure": {
+        "Deliveries": 60290,
+        "Legal Deliveries": 56988,
+        "Run Rate": 9.3,
+        "Dot Ball %": 31.94,
+        "Boundary %": 20.0,
+        "Four %": 11.44,
+        "Six %": 8.56,
+        "Wicket %": 7.12,
+        "Bowler Wicket %": 6.48,
+        "Mean |WPA|": 0.0279
+      },
+      "Low/Medium Pressure": {
+        "Deliveries": 140671,
+        "Legal Deliveries": 135423,
+        "Run Rate": 8.14,
+        "Dot Ball %": 39.2,
+        "Boundary %": 18.09,
+        "Four %": 12.28,
+        "Six %": 5.8,
+        "Wicket %": 4.67,
+        "Bowler Wicket %": 4.52,
+        "Mean |WPA|": 0.0141
+      }
+    }
+  }
+}
