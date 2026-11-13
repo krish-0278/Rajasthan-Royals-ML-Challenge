@@ -1,4 +1,4 @@
-# Rajasthan Royals: SupeRR Selector Season 2 - Round 1
+
 ## "Identify the Most Reliable Players Under Pressure"
 
 This repository provides an autonomous, fully reproducible, context-adjusted analytics pipeline for quantifying in-game pressure at the ball-by-ball level and ranking the most reliable batters and bowlers under high-leverage situations across IPL and T20 International cricket (2022–2026).
